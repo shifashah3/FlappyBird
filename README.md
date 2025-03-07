@@ -28,4 +28,3 @@ game.exe
 ```
 
 **Note:** The provided files are configured for Windows. If using another OS, modifications may be required.
-```
