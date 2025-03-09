@@ -24,7 +24,7 @@ g++ *.cpp -I C:\mingw_dev_lib\include -L C:\mingw_dev_lib\lib -lmingw32 -lSDL2ma
 ```
 Then, execute the game:  
 ```sh
-game.exe
+./game.exe
 ```
 
 **Note:** The provided files are configured for Windows. If using another OS, modifications may be required.
